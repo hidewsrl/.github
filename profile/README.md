@@ -1,9 +1,7 @@
 # HiDew S.r.l.
 
-HiDew progetta e produce in Italia deumidificatori e unità di ventilazione meccanica controllata con recupero di calore per edifici residenziali, piscine, terziario e industria. Dal 2011 lavoriamo in provincia di Padova, con sede produttiva a Conselve.
+HiDew designs and manufactures dehumidifiers and heat-recovery ventilation units for residential buildings, swimming pools, commercial and industrial applications. Founded in 2011, we are based near Padua, Italy, where our production site is located.
 
-La maggior parte dei nostri repository è privata e riservata ai membri dell'organizzazione.
-
-*HiDew designs and manufactures dehumidifiers and heat-recovery ventilation units in Italy; most of our repositories are private.*
+Most of our repositories are private and reserved for members of the organization.
 
 🌐 [hidew.it](https://hidew.it/) · ✉️ [info@hidew.it](mailto:info@hidew.it)
